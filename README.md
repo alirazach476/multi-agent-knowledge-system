@@ -157,6 +157,17 @@ python -m unittest discover -s tests -v
 ![Pipeline](outputs/pipeline_overview.png)
 ![Multi-Agent Output](outputs/sample_multi_agent_output.png)
 
+## Interview brief (PDF)
+
+Download the portfolio / interview project brief:  
+[outputs/Aether_Knowledge_Interview_Project_Brief.pdf](outputs/Aether_Knowledge_Interview_Project_Brief.pdf)
+
+Regenerate with:
+
+```bash
+python scripts/generate_interview_pdf.py
+```
+
 ## Stack
 
 LangChain · LangGraph · FAISS · Groq (free chat) · local HuggingFace embeddings · Streamlit · Pydantic
