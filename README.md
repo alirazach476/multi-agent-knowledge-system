@@ -1,9 +1,12 @@
 # Multi-Agent Knowledge System
 
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-aetherknowledge.streamlit.app-FF4B4B?logo=streamlit&logoColor=white)](https://aetherknowledge.streamlit.app/)
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
 [![LangGraph](https://img.shields.io/badge/orchestration-LangGraph-green.svg)](https://langchain-ai.github.io/langgraph/)
 [![Streamlit](https://img.shields.io/badge/UI-Streamlit-FF4B4B.svg)](https://streamlit.io/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
+**Live app:** [https://aetherknowledge.streamlit.app/](https://aetherknowledge.streamlit.app/)
 
 A **LangGraph multi-agent RAG** demo: a supervisor routes each question through specialist agents that retrieve, analyze, and write grounded answers over a local Markdown knowledge base.
 
